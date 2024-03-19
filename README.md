@@ -2,10 +2,10 @@
 
 # Я дата-аналитик!
 
-### :notebook: Мое портфолио по DA
+### 📊 Мое портфолио по анализу данных
 [Смотреть в репозитории](https://github.com/)
 
-### :hammer_and_wrench: 
+### 🛠️ Ключевые навыки: 
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -22,13 +22,10 @@
 
 
 
-### :woman_technologist: Контакты для связи:
+### 📞💬 Контакты для связи:
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/imolchanova/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://t.me/i_molchanova">
+    <a href="https://t.me/luobov_shch">
     <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
